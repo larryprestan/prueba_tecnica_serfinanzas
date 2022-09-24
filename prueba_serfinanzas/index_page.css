@@ -1,0 +1,8 @@
+#nav-container,#root-container{
+    margin-top: 2%;
+}
+#root-form{
+    padding: 1%;
+    border-radius: 10px;
+    background-color: lightskyblue;
+}
